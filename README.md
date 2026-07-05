@@ -1,6 +1,6 @@
 # data analytics portfolio
 
-<h1 link=<https://colab.research.google.com/drive/1zYIoFUh39WkhIWd049axrA7Mvn6yu-sE>; alt="Google Colab">Project 1</h1>
+<h1 link={https://colab.research.google.com/drive/1zYIoFUh39WkhIWd049axrA7Mvn6yu-sE}; alt="Google Colab">Project 1</h1>
 <p>
   <ul>
     <li>Analyzed A/B test results by extracting and querying data with SQL, performing statistical analysis and plots in Python.</li>
